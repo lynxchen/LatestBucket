@@ -1,0 +1,24 @@
+{
+    "version": "12864",
+    "description": "Free open-source C/C++/Fortran IDE (includes additional GCC/G++ compiler and GDB debugger)",
+    "homepage": "http://www.codeblocks.org",
+    "license": "GPL-3.0-only",
+"url": [
+    "https://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/wxmsw31u_gcc_cb_wx317_2D_gcc810-mingw64-2.7z", 
+	"http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/Prerequisites/Mingw64dlls8.1.0.7z",
+    "http://sourceforge.net/projects/codeblocks/files/Binaries/Nightlies/2022/CB_20220813_rev12864_win64.7z"
+],
+"hash": [
+    "40962c48a0c09af4cd29d6c1d4330a84415ec8ecb83aafc0acc3c6323c09ef37",
+    "2b34cab0e6cae4efe4efc0eda1d542ea4c376e31685ea5eeb3ae422f9f5a5d9a",
+	"4f091e9473e6de5a937f706eed07de61c32d4b6fc5071330872ecd98fc9af559"
+],
+
+    "bin": "codeblocks.exe",
+    "shortcuts": [
+        [
+            "codeblocks.exe",
+            "CodeBlocks-svn"
+        ]
+    ]
+}
